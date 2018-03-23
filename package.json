@@ -1,0 +1,19 @@
+{
+  "name": "@cedarplus/xy-button",
+  "version": "1.0.0",
+  "description": "\"XY-Button\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinlxy/cedar-plus-XY-button.git"
+  },
+  "author": "XY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinlxy/cedar-plus-XY-button/issues"
+  },
+  "homepage": "https://github.com/kelvinlxy/cedar-plus-XY-button#readme"
+}
