@@ -9,7 +9,7 @@ const propTypes = {
 	disabled: PropTypes.bool,
 	footer: PropTypes.bool
 };
-
+//hELLO
 const defaultProps = {
 	btnStyle: {
 		alignSelf: 'stretch',
